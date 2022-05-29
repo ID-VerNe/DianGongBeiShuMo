@@ -1,2 +1,2 @@
-# DianGongBeiShuMo
-2022年电工杯数模A题
+# 2022年电工杯数模
+A题
